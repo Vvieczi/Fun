@@ -1,0 +1,32 @@
+[
+    {
+        "QuestionText": "Czy średniowieczni królowie jedli paprykarz?",
+        "Answers": {
+            "A": "Tak",
+            "B": "Nie",
+            "C": "To zaley czy pościli"
+        },
+        "CorrectAnswer": "B",
+        "PrizePart": "CHUJ"
+    },
+    {
+        "QuestionText": "Kto przywiózł paszteciki do Szczecina ?",
+        "Answers": {
+            "A": "Rosjanie",
+            "B": "Mieszko I",
+            "C": "Królowa Bona"
+        },
+        "CorrectAnswer": "A",
+        "PrizePart": "W"
+    },
+    {
+        "QuestionText": "Ilu było królów Piastów?",
+        "Answers": {
+            "A": "150",
+            "B": "6",
+            "C": "1"
+        },
+        "CorrectAnswer": "B",
+        "PrizePart": "DUPE"
+    }
+]
