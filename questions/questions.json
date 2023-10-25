@@ -7,7 +7,7 @@
             "C": "To zaley czy pościli"
         },
         "CorrectAnswer": "B",
-        "PrizePart": "CHUJ"
+        "PrizePart": "Aleja"
     },
     {
         "QuestionText": "Kto przywiózł paszteciki do Szczecina ?",
@@ -17,7 +17,7 @@
             "C": "Królowa Bona"
         },
         "CorrectAnswer": "A",
-        "PrizePart": "W"
+        "PrizePart": "Piastów"
     },
     {
         "QuestionText": "Ilu było królów Piastów?",
@@ -27,6 +27,6 @@
             "C": "1"
         },
         "CorrectAnswer": "B",
-        "PrizePart": "DUPE"
+        "PrizePart": "Szczecin"
     }
 ]

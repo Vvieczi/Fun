@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/FunRunUS.ConsoleApp/bin/Debug/net7.0/FunRunUS.ConsoleApp.dll",
+            "program": "${workspaceFolder}/FunRunUS.Spell/bin/Debug/net7.0/FunRunUS.Spell.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/FunRunUS.ConsoleApp",
+            "cwd": "${workspaceFolder}/FunRunUS.Spell",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "integratedTerminal",
             "stopAtEntry": false
